@@ -24,4 +24,5 @@ tspan = [0, 25];
 10. p128: The graph is probably wrong, dute to inverse vertical (40m/s instead of 30m/s) and horizontal (30m/s instead of 40m/s) initial velocities.
 11. p135: "In in the previous chapter..." -> "In the previous chapter..."
 12. p137: The axes' labels in Figure 13.1 are the opposite.
-13. "W = [0 1 30 40]" -> "W = [0 1 40 30]"
+13. p141: "W = [0 1 30 40]" -> "W = [0 1 40 30]"
+14. p162: "Third Theorem, 16" -> "Third Theorem, 17"
